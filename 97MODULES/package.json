@@ -1,0 +1,16 @@
+{
+  "name": "97modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "97modules.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-node": "^1.0.1"
+  }
+}

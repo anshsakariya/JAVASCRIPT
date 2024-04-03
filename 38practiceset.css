@@ -1,0 +1,19 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+nav{
+ display: flex;
+ background: yellow;
+}
+
+nav li{
+    list-style: none;
+    padding: 0 23px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
